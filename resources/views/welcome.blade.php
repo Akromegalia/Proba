@@ -76,7 +76,7 @@
                     @endif
                 </div>
             @endif
-
+                /valami szoveg commithoz
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
